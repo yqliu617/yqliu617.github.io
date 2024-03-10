@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: liuyingqi@amss.ac.cn
 
 profile:
   align: right
@@ -17,12 +17,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a PhD student at	[Institute of Mathematics](http://www.math.ac.cn/), AMSS, Chinese Academy of Sciences, where my advisor is [Baohua Fu](http://www.math.ac.cn/people/fbh/). From 2023 to 2025, I am also a visiting PhD student at [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/), where my advisor is [Laurent Manivel](https://manivel.perso.math.cnrs.fr/).
+I am a PhD student at	[Institute of Mathematics](http://www.math.ac.cn/), AMSS, Chinese Academy of Sciences, where my advisor is [Baohua Fu](http://www.math.ac.cn/people/fbh/). I am also a visiting PhD student at [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/) from 2023 to 2025, where my advisor is [Laurent Manivel](https://manivel.perso.math.cnrs.fr/).
 
 My current research focues on the geometry of (quasi-)homogenous varieties. 
 
- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
