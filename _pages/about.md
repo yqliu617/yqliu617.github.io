@@ -17,8 +17,11 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a PhD student at	Institute of Mathematics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences(http://www.math.ac.cn/), where my advisor is [Baohua Fu](http://www.math.ac.cn/people/fbh/). From 2023 to 2025, I am also a visiting PhD student at [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/), where my advisor is [Laurent Manivel](https://manivel.perso.math.cnrs.fr/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My current research focues on the geometry of (quasi-)homogenous varieties. 
+
+ You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
