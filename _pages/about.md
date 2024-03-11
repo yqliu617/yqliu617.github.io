@@ -14,7 +14,7 @@ I am a PhD student at	[Institute of Mathematics](http://www.math.ac.cn/), AMSS, 
 My current research focues on the geometry of (quasi-)homogenous varieties. 
 
 Papers:
-1. A characterization of irreducible Hermitian symmetric spaces of tube type by $\mathbb{C}^{*}$-actions.
+1. A characterization of irreducible Hermitian symmetric spaces of tube type by $$\mathbb{C}^{*}$$-actions.
 [arxiv](https://arxiv.org/abs/2302.04472) 
 2. Additive actions on hyperquadrics of corank two. Electronic Research Archive, 2022, 30(1): 1-34.
 [Journa](https://www.aimspress.com/article/doi/10.3934/era.2022001?viewType=HTML)
