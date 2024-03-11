@@ -225,6 +225,7 @@ exclude:
   - readme_preview/
   - vendor
   - cv.md
+  - dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
