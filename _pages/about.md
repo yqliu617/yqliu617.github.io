@@ -7,15 +7,15 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-<b><font size="5"><font style="font-family: Gill Sans">About me:</font></font></b> 
+<b><font size="5"><font style="font-family: Gill Sans">About me</font></font></b> 
 <br>
 I am a PhD student at [Institute of Mathematics](http://www.math.ac.cn/), AMSS, Chinese Academy of Sciences, where my advisor is [Baohua Fu](http://www.math.ac.cn/people/fbh/). I am also a visiting PhD student at [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/) from 2023 to 2025, where my advisor is [Laurent Manivel](https://manivel.perso.math.cnrs.fr/).<br>
 
-<b><font size="5"><font style="font-family: Gill Sans">Research interest:</font></font></b> 
+<b><font size="5"><font style="font-family: Gill Sans">Research interest</font></font></b> 
 <br>
 My current research focues on the geometry of (quasi-)homogenous varieties. <br><br>
 
-<b><font size="5"><font style="font-family: Gill Sans"> Papers: </font></font></b> <br>
+<b><font size="5"><font style="font-family: Gill Sans"> Papers </font></font></b> <br>
 1. A characterization of irreducible Hermitian symmetric spaces of tube type by $$\mathbb{C}^{*}$$-actions.<br>
    14 pages, [arXiv:2302.04472](https://arxiv.org/abs/2302.04472).
 2. Additive actions on hyperquadrics of corank two.
