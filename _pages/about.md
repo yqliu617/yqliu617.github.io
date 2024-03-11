@@ -15,7 +15,7 @@ My current research focues on the geometry of (quasi-)homogenous varieties.
 
 Papers:
 1. A characterization of irreducible Hermitian symmetric spaces of tube type by C^{*}-actions. [arxiv](https://arxiv.org/abs/2302.04472) 
-2. Additive actions on hyperquadrics of corank two. [Journal](https://www.aimspress.com/article/doi/10.3934/era.2022001?viewType=HTML) Electronic Research Archive, 2022, 30(1): 1-34.
+2. Additive actions on hyperquadrics of corank two. Electronic Research Archive, 2022, 30(1): 1-34. [Journal(https://www.aimspress.com/article/doi/10.3934/era.2022001?viewType=HTML)
 
 
 
