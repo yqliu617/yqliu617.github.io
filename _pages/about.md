@@ -18,8 +18,7 @@ My current research focues on the geometry of (quasi-)homogenous varieties. <br>
 
 <b><font size="5"><font style="font-family: Gill Sans"> Papers </font></font></b> 
 <br>
-1. A characterization of irreducible Hermitian symmetric spaces of tube type by $$\mathbb{C}^{*}$$-actions.
-   14 pages, [arXiv:2302.04472](https://arxiv.org/abs/2302.04472).
+1. A characterization of irreducible Hermitian symmetric spaces of tube type by $$\mathbb{C}^{*}$$-actions. 14 pages, [arXiv:2302.04472](https://arxiv.org/abs/2302.04472).
 2. Additive actions on hyperquadrics of corank two.
    [Electronic Research Archive](https://www.aimspress.com/article/doi/10.3934/era.2022001?viewType=HTML) <b>30</b>, (2022), 1-34.
    
