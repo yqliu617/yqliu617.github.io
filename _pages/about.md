@@ -14,13 +14,13 @@ From 2023 to 2025, I am also a visiting PhD student at [Toulouse Mathematics Ins
 
 <b><font size="5"><font style="font-family: Gill Sans">Research interest</font></font></b> 
 <br>
-My current research focues on the geometry of (quasi-)homogenous varieties. <br><br>
+Complex algebraic geometry. Currently, I am interested in various problems arisng from homogenous and quasi-homogenous varieties. <br><br>
 
 <b><font size="5"><font style="font-family: Gill Sans"> Papers </font></font></b> 
 <br>
-3. Moduli of codimension two linear sections of subadjoint varieties. 18 pages, [arXiv:2403.17230](https://arxiv.org/abs/2403.17230).
+1. Moduli of codimension two linear sections of subadjoint varieties. 18 pages, [arXiv:2403.17230](https://arxiv.org/abs/2403.17230).
 2. A characterization of irreducible Hermitian symmetric spaces of tube type by $$\mathbb{C}^{*}$$-actions. 14 pages, [arXiv:2302.04472](https://arxiv.org/abs/2302.04472).
-1. Additive actions on hyperquadrics of corank two, undergraduate research.
+3. Additive actions on hyperquadrics of corank two, undergraduate research.
    [Electronic Research Archive](https://www.aimspress.com/article/doi/10.3934/era.2022001?viewType=HTML) <b>30</b>, (2022), 1-34.
    
    
