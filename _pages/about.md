@@ -14,7 +14,7 @@ From 2023 to 2025, I am also a visiting PhD student at [Toulouse Mathematics Ins
 
 <b><font size="5"><font style="font-family: Gill Sans">Research interest</font></font></b> 
 <br>
-Complex algebraic geometry, with a focus on various problems arising from (quasi-)homogeous varieties. <br><br>
+Complex algebraic geometry. During my PhD I focus on various problems arising from rational homogenous spaces. <br><br>
 
 <b><font size="5"><font style="font-family: Gill Sans"> Papers </font></font></b> 
 <br>
