@@ -9,7 +9,7 @@ social: false # includes social icons at the bottom of the page
 ---
 <b><font size="5"><font style="font-family: Gill Sans">About me</font></font></b> 
 <br>
-Hello! I am a second year PhD student at [Institute of Mathematics](http://www.math.ac.cn/), AMSS, Chinese Academy of Sciences, under the <br> supervision of [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/). From 2023 to 2025, I am a visiting PhD student at [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/).<br>
+Hello! I am a second year PhD student at [Institute of Mathematics](http://www.math.ac.cn/), AMSS, Chinese Academy of Sciences, under the supervision <br>  of [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/). From 2023 to 2025, I am a visiting PhD student at [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/).<br>
 
 <b><font size="5"><font style="font-family: Gill Sans">Research interest</font></font></b> 
 <br>
