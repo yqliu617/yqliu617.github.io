@@ -17,8 +17,8 @@ Complex algebraic geometry, with a focus on the geometry of homogenous and quasi
 
 <b><font size="6"><font style="font-family: Gill Sans"> Papers </font></font></b> 
 <br>
-1. Moduli of codimension two linear sections of subadjoint varieties. 18 pages, [arXiv:2403.17230](https://arxiv.org/abs/2403.17230). Submitted.
-2. A characterization of irreducible Hermitian symmetric spaces of tube type by $$\mathbb{C}^{*}$$-actions. 14 pages, [arXiv:2302.04472](https://arxiv.org/abs/2302.04472). Submitted.
+1. Moduli of codimension two linear sections of subadjoint varieties. [arXiv:2403.17230](https://arxiv.org/abs/2403.17230). Submitted.
+2. A characterization of irreducible Hermitian symmetric spaces of tube type by $$\mathbb{C}^{*}$$-actions. [arXiv:2302.04472](https://arxiv.org/abs/2302.04472). Submitted.
 3. Additive actions on hyperquadrics of corank two, undergraduate research.
    [Electronic Research Archive](https://www.aimspress.com/article/doi/10.3934/era.2022001?viewType=HTML) <b>30</b>, (2022), 1-34.
    
