@@ -13,7 +13,7 @@ I am a third year PhD student at [Institute of Mathematics](http://www.math.ac.c
 
 <b><font size="6"><font style="font-family: Gill Sans">Research interest</font></font></b> 
 <br>
-Complex algebraic geometry, with a focus on the geometry of homogenous and quasi-homogenous varieties. <br><br>
+Complex algebraic geometry, with a focus on the geometry of homogenous spaces and their linear sections. <br><br>
 
 <b><font size="6"><font style="font-family: Gill Sans"> Papers </font></font></b> 
 <br>
