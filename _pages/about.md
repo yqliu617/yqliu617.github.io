@@ -9,14 +9,14 @@ social: false # includes social icons at the bottom of the page
 ---
 <b><font size="6"><font style="font-family: Gill Sans">About me</font></font></b> 
 <br>
-I am a third year PhD student at [AMSS](http://english.amss.cas.cn). I defended my thesis at May 13th, 2025.<br>
-My PhD advisors are [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/). During 2023 and 2025, I was visiting [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/). <br>
+I am a third year PhD student at [AMSS](http://english.amss.cas.cn), where my advisors are [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/). During 2023 and 2025, I was visiting [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/).<br>
+During 2023 and 2025, I was visiting [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/). <br>
 
 
 
 <b><font size="6"><font style="font-family: Gill Sans">Research interest</font></font></b> 
 <br>
-Complex algebraic geometry, with a focus on the geometry of homogenous spaces and their linear sections. <br><br>
+Fano varieties, moduli spaces, quasi-homogeneous spaces. <br><br>
 
 <p><b><font size="6"><font style="font-family: Gill Sans"> Papers </font></font></b></p>
 
