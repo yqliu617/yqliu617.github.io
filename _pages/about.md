@@ -10,7 +10,7 @@ social: false # includes social icons at the bottom of the page
 <b><font size="6"><font style="font-family: Gill Sans">About me</font></font></b> 
 <br>
 I am a third year PhD student at [AMSS](http://english.amss.cas.cn), where my advisors are [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/). During 2023 and 2025, I was visiting [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/).<br>
-During 2023 and 2025, I was visiting [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/). <br>
+I defended my PhD thesis in May 2025.
 
 
 
