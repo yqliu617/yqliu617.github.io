@@ -7,23 +7,26 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-<b><font size="6"><font style="font-family: Gill Sans">About me</font></font></b> 
+
+I am a postdoctoral researcher at the [Center for Complex Geometry](https://ccg.ibs.re.kr/) in Daejeon, Korea.
+I am interested in problems about Fano varieties, moduli spaces, and quasi-homogeneous spaces.  
+
 <br>
-I am a final-year PhD student at [AMSS](http://english.amss.cas.cn), where my advisors are [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/). During 2023 and 2025, I was visiting [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/).<br>
-I defended my PhD thesis in May 2025.
+<p><b><font size="6"><font style="font-family: Gill Sans">Articles</font></font></b></p>
 
+3. **On linear sections of the spinor tenfold II** (with L. Manivel).  
+   [Preprint](https://arxiv.org/abs/2504.21056v1) Submitted  
+2. **Moduli of codimension two linear sections of subadjoint varieties**.  
+   [Int. J. Math. 36 (2025)](https://www.worldscientific.com/doi/10.1142/S0129167X25500302)  
+1. **A characterization of irreducible Hermitian symmetric spaces of tube type by $\mathbb{C}^*$-actions**.  
+   Accepted by Asian J. Math. [accepted draft]()  
+0. **Additive actions on hyperquadrics of corank two** (undergraduate research).  
+   [Electron. Res. Arch. 30 (2022), 1-34](https://www.aimspress.com/article/doi/10.3934/era.2022001)  
 
+<b><font size="6"><font style="font-family: Gill Sans">A Brief CV</font></font></b>
 
-<b><font size="6"><font style="font-family: Gill Sans">Research interest</font></font></b> 
-<br>
-Fano varieties, moduli spaces, quasi-homogeneous spaces. <br><br>
-
-<p><b><font size="6"><font style="font-family: Gill Sans"> Papers </font></font></b></p>
-
-3. On linear sections of the spinor tenfold II, with L. Manivel. [<a href="https://arxiv.org/abs/2504.21056v1">arXiv:2504.21056v1</a>].<br>
-2. Moduli of codimension two linear sections of subadjoint varieties. Accepted by <a href="https://www.worldscientific.com/doi/10.1142/S0129167X25500302">International Journal of Mathematics</a>.<br>
-1. A characterization of irreducible Hermitian symmetric spaces of tube type by $$\mathbb{C}^{*}$$-actions. [<a href="https://arxiv.org/abs/2302.04472">arXiv:2302.04472</a>]. Submitted.<br>
-0. Additive actions on hyperquadrics of corank two, undergraduate research. [<a href="https://www.aimspress.com/article/doi/10.3934/era.2022001">Electronic Research Archive</a>] <b>30</b>, (2022), 1-34.
-   
-
-
+- **2025/09–present**: Postdoctoral Researcher, Center for Complex Geometry, Daejeon  
+- **2023/02–2025/03**: Visiting PhD Student, [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/), Toulouse  
+- **2020/09–2025/07**: PhD in Mathematics, [Academy of Mathematics and Systems Science](http://english.amss.cas.cn/), Beijing  
+- **2025/05**: PhD Defense, AMSS  
+  Supervisors: Prof. [Baohua Fu](http://www.math.ac.cn/people/fbh/) and Prof. [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html)
