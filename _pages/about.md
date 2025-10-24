@@ -8,7 +8,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a postdoc in [Center for Complex Geometry](https://ccg.ibs.re.kr/).
+I am a postdoc in [Center for Complex Geometry](https://ccg.ibs.re.kr/) @ IBS in Daejeon.
 
 I am interested in problems about Fano varieties, moduli spaces, and quasi-homogeneous spaces.  
 
@@ -20,7 +20,7 @@ I am interested in problems about Fano varieties, moduli spaces, and quasi-homog
 2. **Moduli of codimension two linear sections of subadjoint varieties**.  
    [Int. J. Math. 36 (2025)](https://www.worldscientific.com/doi/10.1142/S0129167X25500302)  
 1. **A characterization of irreducible Hermitian symmetric spaces of tube type by $\mathbb{C}^*$-actions**.  
-   [latest draft](/assets/pdfs/IHSS_tube.pdf)], to appear in Asian J. Math.  
+   [latest draft](/assets/pdf/IHSS_tube.pdf)], to appear in Asian J. Math.  
 0. **Additive actions on hyperquadrics of corank two**.  
    [Electron. Res. Arch. 30 (2022), 1–34](https://www.aimspress.com/article/doi/10.3934/era.2022001)
 
