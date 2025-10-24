@@ -18,13 +18,13 @@ You can contact me via email at yqliu@ibs.re.kr or liuyingqi@amss.ac.cn.
 <br>
 <p><font size="5" style="font-family: Gill Sans">Articles</font></p>
 
-4. **On linear sections of the spinor tenfold II** (with L. Manivel).  
+4. On linear sections of the spinor tenfold II (with L. Manivel).  
    [arXiv](https://arxiv.org/abs/2504.21056v1), Submitted  
-3. **Moduli of codimension two linear sections of subadjoint varieties**.  
+3. Moduli of codimension two linear sections of subadjoint varieties.  
    [Int. J. Math. 36 (2025)](https://www.worldscientific.com/doi/10.1142/S0129167X25500302)  
-2. **A characterization of irreducible Hermitian symmetric spaces of tube type by $\mathbb{C}^*$-actions**.  
+2. A characterization of irreducible Hermitian symmetric spaces of tube type by $\mathbb{C}^*$-actions.  
    [Latest draft](/assets/pdf/IHSS_tube.pdf) — To appear in Asian J. Math.  
-1. **Additive actions on hyperquadrics of corank two**.  
+1. Additive actions on hyperquadrics of corank two.  
    [Electron. Res. Arch. 30 (2022), 1–34](https://www.aimspress.com/article/doi/10.3934/era.2022001)
 
 <font size="5" style="font-family: Gill Sans">A Brief CV</font>
