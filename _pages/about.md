@@ -13,10 +13,10 @@ I am a postdoc at the [Center for Complex Geometry](https://ccg.ibs.re.kr/) @ IB
 
 I am interested in problems related to Fano varieties, moduli spaces, and group actions.
 
-You can contact me via email at yqliu@ibs.re.kr or liuyingqi@amss.ac.cn.
+You can contact me via email at [yqliu@ibs.re.kr](yqliu@ibs.re.kr) or [liuyingqi@amss.ac.cn](liuyingqi@amss.ac.cn).
 
 <br>
-<p><font size="5" style="font-family: Gill Sans">Articles</font></p>
+<p><b><font size="5" style="font-family: Gill Sans">Articles</font></b></p>
 
 4. On linear sections of the spinor tenfold II (with L. Manivel).  
    [arXiv](https://arxiv.org/abs/2504.21056v1), Submitted  
@@ -27,7 +27,7 @@ You can contact me via email at yqliu@ibs.re.kr or liuyingqi@amss.ac.cn.
 1. Additive actions on hyperquadrics of corank two.  
    [Electron. Res. Arch. 30 (2022), 1–34](https://www.aimspress.com/article/doi/10.3934/era.2022001)
 
-<font size="5" style="font-family: Gill Sans">A Brief CV</font>
+<p><b><font size="5" style="font-family: Gill Sans">Brief CV</font></b></p>
 
 - 2025/09–present: Postdoc, [Center for Complex Geometry](https://ccg.ibs.re.kr/) @ Daejeon  
 - 2020/09–2025/07: PhD, [Academy of Mathematics and Systems Science](http://english.amss.cas.cn/) @ Beijing  
