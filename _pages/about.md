@@ -8,7 +8,7 @@ selected_papers: false
 social: false
 ---
 <br>
-<p><font size="5" style="font-family: Gill Sans">Welcome</font></p>
+
 I am a postdoc at the [Center for Complex Geometry](https://ccg.ibs.re.kr/) @ IBS in Daejeon.
 
 I am interested in problems related to Fano varieties, moduli spaces, and group actions.
