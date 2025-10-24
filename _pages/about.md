@@ -8,9 +8,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a postdoc in [Center for Complex Geometry](https://ccg.ibs.re.kr/) @ IBS in Daejeon.
+I am a postdoc at the [Center for Complex Geometry](https://ccg.ibs.re.kr/) @ IBS in Daejeon.
 
-I am interested in problems about Fano varieties, moduli spaces, and quasi-homogeneous spaces.  
+I am interested in problems related to Fano varieties, moduli spaces, and group actions.
+
+You can contact me via email at yqliu@ibs.re.kr or liuyingqi@amss.ac.cn.
 
 <br>
 <p><b><font size="4"><font style="font-family: Gill Sans">Articles</font></font></b></p>
