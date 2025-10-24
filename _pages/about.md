@@ -25,7 +25,7 @@ You can contact me via email at [yqliu@ibs.re.kr](yqliu@ibs.re.kr) or [liuyingqi
 
 <p><b><font size="5" style="font-family: Gill Sans">Brief CV</font></b></p>
 
-- 2025/09–present: Postdoc, [Center for Complex Geometry](https://ccg.ibs.re.kr/) @ Daejeon  
-- 2020/09–2025/07: PhD, [Academy of Mathematics and Systems Science](http://english.amss.cas.cn/) @ Beijing  
+- 2025/09–present: Postdoc, [IBS CCG](https://ccg.ibs.re.kr/) @ Daejeon  
+- 2020/09–2025/07: PhD, [AMSS](http://english.amss.cas.cn/) @ Beijing  
   Supervisors: Prof. [Baohua Fu](http://www.math.ac.cn/people/fbh/) and Prof. [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html)
-- 2023/02–2025/03: Visiting PhD Student, [Toulouse Mathematics Institute](https://www.math.univ-toulouse.fr/fr/) @ Toulouse
+- 2023/02–2025/03: Visiting PhD Student, [IMT](https://www.math.univ-toulouse.fr/fr/) @ Toulouse
