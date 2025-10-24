@@ -14,7 +14,7 @@ You can contact me via email at [yqliu@ibs.re.kr](yqliu@ibs.re.kr) or [liuyingqi
 
 I am interested in problems related to Fano varieties, moduli spaces, and group actions.
 <br>
-<p><b><font size="5" style="font-family: Gill Sans">Articles</font></b></p>
+<p><b><font size="5" style="font-family: Gill Sans">Papers</font></b></p>
 
 4. On linear sections of the spinor tenfold II (with L. Manivel), Submitted. [[arXiv]](https://arxiv.org/abs/2504.21056v1)
 3. Moduli of codimension two linear sections of subadjoint varieties, Int. J. Math. 36 (2025).[[Journal]](https://www.worldscientific.com/doi/10.1142/S0129167X25500302) [[arXiv]](https://arxiv.org/abs/2403.17230) 
