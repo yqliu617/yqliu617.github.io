@@ -17,6 +17,8 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-size: 1.125rem; // 18px，相当于在16px基础上增加12.5%
+  line-height: 1.6;
 }
 
 hr {
