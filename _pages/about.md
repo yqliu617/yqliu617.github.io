@@ -12,7 +12,7 @@ social: false
 
 Email: <a href="mailto:yqliu@ibs.re.kr">yqliu@ibs.re.kr</a> or <a href="mailto:liuyingqi@amss.ac.cn">liuyingqi@amss.ac.cn</a>
 
-Office: B252, 2nd floor of the Theory Building of the IBS HQ
+Office: B252, 2nd floor of the Theory Building of the [IBS HQ](https://maps.app.goo.gl/UbJcttCMuf6o2Eax7)
 
 <p><b><font size="6" style="font-family: Gill Sans">About</font></b></p>
 
@@ -28,6 +28,8 @@ Since 2025 Sep, I am a postdoc at the [Center for Complex Geometry](https://ccg.
 <br>
 <p><b><font size="6" style="font-family: Gill Sans">Education</font></b></p>
  
-- 2020–2025: PhD, *Academy of Mathematics and Systems Science*, Beijing, supervised by [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html)
+- 2020–2025: PhD, *Academy of Mathematics and Systems Science*, Beijing
+
+   *Thesis: [Abstract](/assets/pdf/abstract.pdf) | Supervisors: [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html)* 
 - 2023–2025: Visiting Student, *Institut de Mathématiques de Toulouse*, Toulouse
 - 2016-2020: B.A. in Maths, *Dalian University of Technology*, Dalian
