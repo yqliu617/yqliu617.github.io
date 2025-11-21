@@ -39,8 +39,10 @@ $max-content-width: {{ site.max_width }};
     text-decoration: underline;
 }
 .sidebar .site-title {
-  font-size: 1.8rem;   
-  font-weight: 700;
+  font-size: 2.5rem;  
+  font-weight: 900;    
+  color: #333333;     
+  letter-spacing: 1px; 
 }
 .sidebar .contact-list li {
   font-size: 1.1rem;   
