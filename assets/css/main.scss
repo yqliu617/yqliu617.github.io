@@ -47,3 +47,7 @@ $max-content-width: {{ site.max_width }};
 .sidebar .contact-list li {
   font-size: 1.1rem;   
 }
+.post-title {
+  font-size: 3rem;   // 改成你希望的大小
+  font-weight: 900;  // 加粗
+}
