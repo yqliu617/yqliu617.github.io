@@ -38,3 +38,10 @@ $max-content-width: {{ site.max_width }};
 .abstract-toggle:hover {
     text-decoration: underline;
 }
+.sidebar .site-title {
+  font-size: 1.8rem !important;   
+  font-weight: 700 !important;
+}
+.sidebar .contact-list li {
+  font-size: 1.1rem !important;   
+}
