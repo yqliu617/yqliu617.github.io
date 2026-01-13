@@ -21,9 +21,9 @@ Since 2025 Sep, I am a postdoc at the [Center for Complex Geometry](https://ccg.
 
 <p><b><font size="6" style="font-family: Gill Sans">Papers</font></b></p>
 
-- *On linear sections of the spinor tenfold II (with L. Manivel)*, Submitted. [[arXiv]](https://arxiv.org/abs/2504.21056v1)
+- *On linear sections of the spinor tenfold II (with L. Manivel)*, submitted. [[arXiv]](https://arxiv.org/abs/2504.21056v1)
 - *Moduli of codimension two linear sections of subadjoint varieties*, Int. J. Math. 36 (2025).[[Journal]](https://www.worldscientific.com/doi/10.1142/S0129167X25500302) [[arXiv]](https://arxiv.org/abs/2403.17230) 
-- <em>A characterization of irreducible Hermitian symmetric spaces of tube type by &#8450;<sup>*</sup>-actions</em>, to appear in Asian J. Math. [[Preprint]](/assets/pdf/IHSS_tube.pdf) 
+- <em>A characterization of irreducible Hermitian symmetric spaces of tube type by &#8450;<sup>*</sup>-actions</em>, Asian. J. Math. 29 (2025), 601-622. [[Journal]](https://link.intlpress.com/JDetail/2010706231132758017)
 - *Additive actions on hyperquadrics of corank two*, Electron. Res. Arch. 30 (2022), 1–34. [[Journal]](https://www.aimspress.com/article/doi/10.3934/era.2022001)
 <br>
 <p><b><font size="6" style="font-family: Gill Sans">Education</font></b></p>
