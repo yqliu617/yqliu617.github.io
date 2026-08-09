@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: liuyingqi@amss.ac.cn
+subtitle: yqliu@ibs.re.kr
 news: false
 selected_papers: false
 social: false
@@ -17,12 +17,16 @@ Office: B252, 2nd floor of the Theory Building of the [IBS HQ](https://maps.app.
 
 ## About
 
-Since 2025 Sep, I am a postdoc at the [Center for Complex Geometry](https://ccg.ibs.re.kr/) @ IBS in Daejeon. I am interested in problems related to *Fano varieties, moduli spaces, and group actions*.
+Welcome! I am a postdoc at the [Center for Complex Geometry](https://ccg.ibs.re.kr/) at IBS in Daejeon since Sep 2025.
+I obtained my PhD from [AMSS](http://english.amss.cas.cn/) in 2025, under the supervision of [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html).
+
+My research is in complex algebraic geometry. Since my PhD thesis ([Abstract](/assets/pdf/abstract.pdf)), I have been working on rigidity problems for Fano varieties arising from VMRT structures, as well as on GIT moduli spaces of complete intersections in homogeneous varieties. More broadly, I am interested in problems related to *Fano varieties, moduli spaces, and group actions*, and the interactions among them.
 
 
 ## Papers
 
-- *On linear sections of the spinor tenfold II (with L. Manivel)*, submitted. [[arXiv]](https://arxiv.org/abs/2504.21056v1)
+- *On isotrivial cone structure of highest weight type*, 47 pages. [[arXiv:2607.29140]](https://arxiv.org/abs/2607.29140v1)
+- *On linear sections of the spinor tenfold II (with L. Manivel)*, 48 pages. [[arXiv:2504.21056]](https://arxiv.org/abs/2504.21056v1)
 - [*Moduli of codimension two linear sections of subadjoint varieties*](https://www.worldscientific.com/doi/10.1142/S0129167X25500302), Int. J. Math. 36 (2025), No. 10, 28 pp. [[arXiv]](https://arxiv.org/abs/2403.17230) 
 - [<em>A characterization of irreducible Hermitian symmetric spaces of tube type by &#8450;<sup>*</sup>-actions</em>](https://link.intlpress.com/JDetail/2010706231132758017), Asian. J. Math. 29 (2025), No. 5, 601-622.
 - [*Additive actions on hyperquadrics of corank two*](https://www.aimspress.com/article/doi/10.3934/era.2022001) (Bachelor's thesis), Electron. Res. Arch. 30 (2022), 1–34. 
@@ -30,7 +34,6 @@ Since 2025 Sep, I am a postdoc at the [Center for Complex Geometry](https://ccg.
 
 ## Education
  
-- 2020–2025: PhD, *Academy of Mathematics and Systems Science*, Beijing<br>
-   Thesis: [Abstract](/assets/pdf/abstract.pdf)  Supervisors: [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html)
+- 2020–2025: PhD, *Academy of Mathematics and Systems Science*, Beijing.
 - 2023–2025: Visiting Student, *Institut de Mathématiques de Toulouse*, Toulouse
 - 2016-2020: B.A. in Maths, *Dalian University of Technology*, Dalian
