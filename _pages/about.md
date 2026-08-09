@@ -17,7 +17,7 @@ Office: B252, 2nd floor of the Theory Building of the [IBS HQ](https://maps.app.
 
 ## About
 
-Welcome! I am a postdoc at the [Center for Complex Geometry](https://ccg.ibs.re.kr/) at IBS in Daejeon since Sep 2025.
+Welcome! I am a postdoc at the [Center for Complex Geometry](https://ccg.ibs.re.kr/) at IBS in Daejeon.
 
 I obtained my PhD from [AMSS](http://english.amss.cas.cn/) in 2025, under the supervision of [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html).
 
