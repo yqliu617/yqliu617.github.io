@@ -21,7 +21,7 @@ Welcome! I am a postdoc at the [Center for Complex Geometry](https://ccg.ibs.re.
 
 I obtained my PhD from [AMSS](http://english.amss.cas.cn/) in 2025, under the supervision of [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html).
 
-My research is in complex algebraic geometry. Starting with my PhD thesis ([Abstract](/assets/pdf/abstract.pdf)), I have been working on rigidity problems and moduli spaces arising from homogeneous varieties and their complete intersections. More broadly, I am interested in problems related to *Fano varieties, moduli spaces, and group actions*, and the interactions among them.
+My research is in complex algebraic geometry. Starting with my PhD thesis ([Abstract](/assets/pdf/abstract.pdf)), I have been studying rigidity and moduli problems related to homogeneous varieties and their complete intersections. More broadly, I am interested in problems related to *Fano varieties, moduli spaces, and group actions*, and the interactions among them.
 
 
 ## Papers
