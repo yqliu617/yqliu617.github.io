@@ -1,8 +1,10 @@
 {% if site.footer_fixed %}
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0" style="font-size:0.65rem; text-align:center;">
-      {{ site.footer_text }} &middot; Last updated: {{ 'now' | date: '%B %d, %Y' }}.
-      {% endif %}
+      {{ site.footer_text }}
+{% if site.last_updated %}
+  &nbsp; Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+{% endif %}
     </div>
   </footer>
 {% else %}
