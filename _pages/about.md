@@ -21,12 +21,14 @@ Welcome! I am a postdoc at the [Center for Complex Geometry](https://ccg.ibs.re.
 
 I obtained my PhD from [AMSS](http://english.amss.cas.cn/) in 2025, under the supervision of [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html).
 
-My research is in complex algebraic geometry. Starting with my PhD thesis ([Abstract](/assets/pdf/abstract.pdf)), I have been studying rigidity and moduli problems related to homogeneous varieties and their complete intersections. More broadly, I am interested in problems related to *Fano varieties, moduli spaces, and group actions*, and the interactions among them.
+My research is in complex algebraic geometry.
 
+- Starting with my PhD thesis ([Abstract](/assets/pdf/abstract.pdf)), I have been studying rigidity and moduli problems related to homogeneous varieties and their complete intersections.
+- More broadly, I am interested in *Fano varieties, moduli spaces, and group actions*, and their interactions.
 
 ## Papers
 
-- *On isotrivial cone structure of highest weight type*, 47 pages. [[arXiv:2607.29140]](https://arxiv.org/abs/2607.29140v1)
+- *On isotrivial cone structures of highest weight type*, 47 pages. [[arXiv:2607.29140]](https://arxiv.org/abs/2607.29140v1)
 - *On linear sections of the spinor tenfold II (with L. Manivel)*, 48 pages. [[arXiv:2504.21056]](https://arxiv.org/abs/2504.21056v1)
 - [*Moduli of codimension two linear sections of subadjoint varieties*](https://www.worldscientific.com/doi/10.1142/S0129167X25500302), Int. J. Math. 36 (2025), No. 10, 28 pp. [[arXiv]](https://arxiv.org/abs/2403.17230) 
 - [<em>A characterization of irreducible Hermitian symmetric spaces of tube type by &#8450;<sup>*</sup>-actions</em>](https://link.intlpress.com/JDetail/2010706231132758017), Asian. J. Math. 29 (2025), No. 5, 601-622.
