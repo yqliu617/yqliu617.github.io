@@ -15,6 +15,8 @@ Email: <a href="mailto:yqliu@ibs.re.kr">yqliu@ibs.re.kr</a> or <a href="mailto:l
 
 Office: B252, 2nd floor of the Theory Building of the [IBS HQ](https://maps.app.goo.gl/UbJcttCMuf6o2Eax7)
 
+---
+
 ## About
 
 Welcome! I am a postdoc (since Sep 2025) at the IBS [Center for Complex Geometry](https://ccg.ibs.re.kr/) in Daejeon, South Korea.
@@ -25,7 +27,7 @@ I work in complex algebraic geometry, focusing on rigidity/moduli problems aroun
 
 See [Activities](https://yqliu617.github.io/activities/) for my talks and conference participation.
 
-
+---
 
 ## Papers
 
@@ -35,7 +37,7 @@ See [Activities](https://yqliu617.github.io/activities/) for my talks and confer
 - [<em>A characterization of irreducible Hermitian symmetric spaces of tube type by &#8450;<sup>*</sup>-actions</em>](https://link.intlpress.com/JDetail/2010706231132758017), Asian. J. Math. 29 (2025), No. 5, 601-622.
 - [*Additive actions on hyperquadrics of corank two*](https://www.aimspress.com/article/doi/10.3934/era.2022001) (Bachelor's thesis), Electron. Res. Arch. 30 (2022), 1–34. 
 <br>
-
+---
 ## Education
  
 - 2020–2025: PhD, *Academy of Mathematics and Systems Science*, Beijing.
