@@ -1,8 +1,8 @@
 ---
 layout: page
-title: activities
+title: Activities
 permalink: /activities/
-description: Talks and participation in conferences and workshops.
+description: 
 nav: true
 nav_order: 1
 ---
@@ -12,6 +12,7 @@ nav_order: 1
 
 
 
+
 ## Conferences & workshops
 
-*Details to be added.*
+
