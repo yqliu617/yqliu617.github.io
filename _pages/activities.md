@@ -17,6 +17,6 @@ nav_order: 1
 
 
 
-## Conferences & workshops attended
+## Upcoming conferences & workshops 
 
  TBA
