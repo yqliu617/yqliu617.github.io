@@ -19,7 +19,7 @@ Office: B252, 2nd floor of the Theory Building of the [IBS HQ](https://maps.app.
 
 ## About
 
-Welcome! I am a postdoc at the IBS [Center for Complex Geometry](https://ccg.ibs.re.kr/) in Daejeon, South Korea. I obtained my PhD from [AMSS](http://english.amss.cas.cn/), supervised by [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html) ([thesis abstract](/assets/pdf/abstract.pdf)).
+Welcome! I am a postdoc at the IBS [Center for Complex Geometry](https://ccg.ibs.re.kr/) in Daejeon, South Korea. I did my [PhD thesis](/assets/pdf/abstract.pdf) with [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html) at [AMSS](http://english.amss.cas.cn/) in 2025.
 
 I work in complex algebraic geometry, focusing on the rigidity and moduli problems around quasi-homogeneous varieties. My general interests lie in the interplay between *Fano varieties, moduli spaces, and group actions*.
 
@@ -41,5 +41,5 @@ See [Events](https://yqliu617.github.io/activities/) for my talks and conference
 ## Education
  
 - 2020–2025: PhD, *Academy of Mathematics and Systems Science*, Beijing.
-- 2023–2025: Visiting Student, *Institut de Mathématiques de Toulouse*, Toulouse
-- 2016-2020: B.S. in Maths, *Dalian University of Technology*, Dalian
+- 2023–2025: Visiting Student, *Institut de Mathématiques de Toulouse*, Toulouse.
+- 2016-2020: B.S. in Maths, *Dalian University of Technology*, Dalian.
