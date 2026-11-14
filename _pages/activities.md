@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Events
 permalink: /activities/
 description: 
 nav: true
