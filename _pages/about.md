@@ -19,7 +19,7 @@ Office: B252, 2nd floor of the Theory Building of the [IBS HQ](https://maps.app.
 
 ## About
 
-Welcome! I am a postdoc at the IBS [Center for Complex Geometry](https://ccg.ibs.re.kr/) in Daejeon, South Korea. I did my [PhD thesis](/assets/pdf/abstract.pdf) with [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html) at [AMSS](http://english.amss.cas.cn/) in 2025.
+Welcome! I am a postdoc at the IBS [Center for Complex Geometry](https://ccg.ibs.re.kr/) in Daejeon, South Korea. I did my [PhD thesis](/assets/pdf/abstract.pdf) with [Baohua Fu](http://www.math.ac.cn/people/fbh/) and [Laurent Manivel](https://manivel.perso.math.cnrs.fr/index.html) at [AMSS](http://www.math.ac.cn/) in 2025.
 
 I work in complex algebraic geometry, focusing on the rigidity and moduli problems around quasi-homogeneous varieties. My general interests lie in the interplay between *Fano varieties, moduli spaces, and group actions*.
 
