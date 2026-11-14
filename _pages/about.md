@@ -25,7 +25,7 @@ I obtained my PhD ([thesis abstract](/assets/pdf/abstract.pdf)) from [AMSS](http
 
 I work in complex algebraic geometry, focusing on rigidity/moduli problems around quasi-homogeneous varieties and their complete intersections. My general interests lie in the interplay between *Fano varieties, moduli spaces, and group actions*.
 
-See [Activities](https://yqliu617.github.io/activities/) for my talks and conference participation.
+See [Events](https://yqliu617.github.io/activities/) for my talks and conference participation.
 
 ---
 
