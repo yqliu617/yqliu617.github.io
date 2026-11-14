@@ -20,3 +20,5 @@ nav_order: 1
 ## Upcoming conferences & workshops 
 
  TBA
+
+## Some past activities I attended
