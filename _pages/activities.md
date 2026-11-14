@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities
+title: 
 permalink: /activities/
 description: 
 nav: true
@@ -17,10 +17,10 @@ nav_order: 1
 
 
 
-## Upcoming conferences & workshops 
+## Upcoming events
 
  TBA
 
 ---
 
-## Some past activities I attended
+## Previous events
