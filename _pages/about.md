@@ -23,7 +23,7 @@ Welcome! I am a postdoc at the IBS [Center for Complex Geometry](https://ccg.ibs
 
 I work in complex algebraic geometry, focusing on the rigidity and moduli of quasi-homogeneous varieties. My general interests lie in the interplay between *Fano varieties, moduli spaces, and group actions*. My papers are listed below.
 
-See [Events](https://yqliu617.github.io/activities/) for my recent talks and conference participation.
+See [Events](https://yqliu617.github.io/activities/) for recent talks and conferences.
 
 ---
 
