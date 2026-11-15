@@ -20,8 +20,10 @@ nav_order: 1
 
 ## Upcoming events
 
- TBA
+-
 
 ---
 
-## Previous events
+## Previous events 
+
+- 
