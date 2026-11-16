@@ -32,7 +32,7 @@ See [Events](https://yqliu617.github.io/activities/) for recent talks and confer
 - *On isotrivial cone structures of highest weight type*, 47 pages. [[arXiv:2607.29140]](https://arxiv.org/abs/2607.29140v1)
 - (with L. Manivel) *On linear sections of the spinor tenfold II*,  48 pages. [[arXiv:2504.21056]](https://arxiv.org/abs/2504.21056v1)
 - [*Moduli of codimension two linear sections of subadjoint varieties*](https://www.worldscientific.com/doi/10.1142/S0129167X25500302), Int. J. Math. 36 (2025), No. 10, 28 pp. [[arXiv:2403.17230]](https://arxiv.org/abs/2403.17230) 
-- [<em>A characterization of irreducible Hermitian symmetric spaces of tube type by &#8450;<sup>*</sup>-actions</em>](https://link.intlpress.com/JDetail/2010706231132758017), Asian. J. Math. 29 (2025), No. 5, 601-622. [[arXiv:2302.04472]](https://arxiv.org/abs/2302.04472)
+- [<em>A characterization of irreducible Hermitian symmetric spaces of tube type by &#8450;<sup>*</sup>-actions</em>](https://link.intlpress.com/JDetail/2010706231132758017), Asian. J. Math. 29 (2025), No. 5, 601-622. [[arXiv:2302.04472]](https://arxiv.org/abs/2302.04472) [[PDF]](/assets/pdf/IHSS_tube.pdf)
 - [*Additive actions on hyperquadrics of corank two*](https://www.aimspress.com/article/doi/10.3934/era.2022001) (Bachelor's thesis), Electron. Res. Arch. 30 (2022), 1–34.
 <br>
 
