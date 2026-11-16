@@ -8,6 +8,6 @@
       this.setAttribute('aria-expanded', String(!content.hidden));
     ">[Abstract]</button>
   <div hidden style="margin-top:0.8em;">
-    {{ include.text | markdownify }}
+    {{ include.text | escape }}
   </div>
 </div>
